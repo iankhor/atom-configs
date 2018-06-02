@@ -33,3 +33,6 @@
 
 '.platform-darwin':
   'cmd-shift-p': 'tree-view:toggle'
+
+'.platform-darwin atom-workspace':
+  'cmd-l': 'platformio-ide-terminal:fullscreen'
