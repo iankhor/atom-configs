@@ -4,6 +4,7 @@
     disabledPackages: [
       "linter"
     ]
+    projectHome: "/Users/iankhor/Document/app"
     telemetryConsent: "no"
   editor:
     preferredLineLength: 120
