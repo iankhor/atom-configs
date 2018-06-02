@@ -7,6 +7,7 @@
     projectHome: "/Users/iankhor/Document/app"
     telemetryConsent: "no"
   editor:
+    fontSize: 15
     preferredLineLength: 120
   "exception-reporting":
     userId: "f48f0d9b-6164-5b38-0718-a5d7c855b9b4"
