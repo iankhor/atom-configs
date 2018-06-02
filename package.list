@@ -5,6 +5,7 @@ block-travel@1.0.5
 busy-signal@1.4.3
 dash@1.7.1
 emmet@2.4.3
+es6-javascript@1.0.0
 file-icons@2.1.21
 highlight-selected@0.13.1
 intentions@1.1.5
@@ -16,5 +17,6 @@ linter-ruby@1.2.6
 linter-ui-default@1.7.1
 maximize-panes@0.2.0
 platformio-ide-terminal@2.8.1
+react@0.18.0
 trailing-spaces@0.4.0
 
