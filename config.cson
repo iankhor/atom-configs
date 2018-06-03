@@ -1,4 +1,6 @@
 "*":
+  "atom-clock":
+    dateFormat: "dddd D MMM H:mm"
   core:
     allowPendingPaneItems: false
     disabledPackages: [
