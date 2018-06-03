@@ -11,7 +11,12 @@
     preferredLineLength: 120
   "exception-reporting":
     userId: "f48f0d9b-6164-5b38-0718-a5d7c855b9b4"
-  "linter-ui-default": {}
+  "linter-ui-default":
+    panelHeight: 177
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
   "platformio-ide-terminal":
     core:
       scrollback: 100000

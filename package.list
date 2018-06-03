@@ -1,24 +1,29 @@
-[36mCommunity Packages (22)[39m /Users/iankhor/.atom/packages
-├── atom-html-preview@0.2.5
-├── atom-ide-ui@0.12.0
-├── autoclose-html@0.23.0
-├── block-travel@1.0.5
-├── busy-signal@1.4.3
-├── dash@1.7.1
-├── emmet@2.4.3
-├── es6-javascript@1.0.0
-├── file-icons@2.1.21
-├── highlight-selected@0.13.1
-├── indent-guide-improved@1.4.13
-├── intentions@1.1.5
-├── language-slim@1.0.0
-├── linter@2.2.0 (disabled)
-├── linter-eslint@8.4.1
-├── linter-rubocop@2.2.3
-├── linter-ruby@1.2.6
-├── linter-ui-default@1.7.1
-├── maximize-panes@0.2.0
-├── platformio-ide-terminal@2.8.1
-├── react@0.18.0
-└── trailing-spaces@0.4.0
+atom-clock@0.1.16
+atom-html-preview@0.2.5
+atom-ide-ui@0.12.0
+autoclose-html@0.23.0
+block-travel@1.0.5
+busy-signal@1.4.3
+dash@1.7.1
+emmet@2.4.3
+es6-javascript@1.0.0
+file-icons@2.1.21
+hey-pane@1.1.0
+highlight-selected@0.13.1
+indent-guide-improved@1.4.13
+intentions@1.1.5
+language-slim@1.0.0
+linter@2.2.0
+linter-eslint@8.4.1
+linter-rubocop@2.2.3
+linter-ruby@1.2.6
+linter-ui-default@1.7.1
+maximize-panes@0.2.0
+minimap@4.29.8
+minimap-highlight-selected@4.6.1
+platformio-ide-terminal@2.8.1
+rails-rspec@0.3.2
+react@0.18.0
+rspec@0.4.0
+trailing-spaces@0.4.0
 
