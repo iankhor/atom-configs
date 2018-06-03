@@ -31,3 +31,14 @@ atom-text-editor {
 atom-text-editor::shadow .cursor {
   border-color: red;
 }
+
+// indent guide cusomtise
+.indent-guide-improved {
+  background-color: gray;
+  &.indent-guide-stack {
+    background-color: cyan;
+    &.indent-guide-active {
+      background-color: yellow;
+    }
+  }
+}
