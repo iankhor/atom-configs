@@ -33,5 +33,6 @@
 
 '.platform-darwin':
   'cmd-shift-p': 'tree-view:toggle',
-  'cmd-l': 'platformio-ide-terminal:toggle',
-  'cmd-;': 'platformio-ide-terminal:fullscreen'
+  'cmd-shift-l': 'platformio-ide-terminal:toggle',
+  'cmd-shift-;': 'platformio-ide-terminal:fullscreen'
+  'cmd-shift-5': 'pane-layout:square'
