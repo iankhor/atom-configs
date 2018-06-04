@@ -1,6 +1,9 @@
 "*":
   "atom-clock":
     dateFormat: "dddd D MMM H:mm"
+  "atom-ide-ui":
+    use:
+      "atom-ide-terminal": "never"
   core:
     allowPendingPaneItems: false
     disabledPackages: [
