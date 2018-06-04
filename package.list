@@ -23,6 +23,7 @@ maximize-panes@0.2.0
 minimap@4.29.8
 minimap-highlight-selected@4.6.1
 pane-layout-plus@0.7.4
+pigments@0.40.2
 platformio-ide-terminal@2.8.1
 rails-rspec@0.3.2
 react@0.18.0
