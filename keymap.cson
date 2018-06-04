@@ -32,7 +32,6 @@
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
 
 '.platform-darwin':
-  'cmd-shift-p': 'tree-view:toggle',
   'cmd-shift-l': 'platformio-ide-terminal:toggle',
   'cmd-shift-;': 'platformio-ide-terminal:fullscreen'
   'cmd-shift-5': 'pane-layout:square'
